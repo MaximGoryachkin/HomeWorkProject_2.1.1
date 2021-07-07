@@ -20,9 +20,6 @@
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="qqG-dh-eqY">
                                 <rect key="frame" x="25" y="69" width="364" height="371.5"/>
                                 <color key="backgroundColor" systemColor="systemRedColor"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" relation="lessThanOrEqual" constant="375" id="2Kb-OH-HPU"/>
-                                </constraints>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="TgW-To-k92">
                                 <rect key="frame" x="25" y="465.5" width="364" height="371.5"/>
